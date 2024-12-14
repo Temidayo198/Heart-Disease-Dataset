@@ -50,21 +50,23 @@ Data Transformation: Once the data was loaded, I cleaned my dataset using Power 
 
 Data Visualization: The use of various visual elements (charts, graphs, cards) to represent data visually.
 
+![Screenshot (69)](https://github.com/user-attachments/assets/9d5a6612-64a7-46e0-8c00-b41a110581d9)
+![Screenshot (70)](https://github.com/user-attachments/assets/0e53b945-3b44-4d48-b22c-937b71d695b2)
+
 
 ### Results
 ---
 
-- **`Revenue Breakdown by Subscription Type`**: The total revenue generated is approximately $67.54 million.
-The Basic subscription type generates the highest revenue, totaling $33.78 million, followed closely by the Standard and Premium subscriptions at $16.86 million and $16.89 million, respectively. This indicates that while there is an interest in premium options, the majority of customers still prefer the Basic plan.
+- **`Gender Distribution`**: The dataset shows a higher number of male compared to females, which represents 68.21% of males and 31.79% of females.
 
+- **`Average Age`**: The average age of individuals in the dataset is 54 years, giving an indication of the demographic profile of the population at risk of heart disease.
 
-- **`Top Subscribers`**: Liam is the overall top subscriber, contributing $3.44 million in revenue, followed closely by Mike, Sophia, Nina, and Anna. Liam is the leading subscriber from the East, while John leads in the North, Sophia in the South, and Nina in the West. 
-   
-- **`Customer Demographic Segmentation`**: A large portion of customers is subscribed to the Basic and Standard plans, as evidenced by the high revenue figures associated with these types. This can provide insight into customer preferences and their price sensitivity.
+- **`Cholesterol by Age`**: The chart shows an average cholesterol by age, with a noticeable rise in cholesterol levels in older individuals. Thia could suggest a correlation between higher cholesterol levels and increased age.
+  
+- **`Chest Pain Types`**: The chart shows that  **`Type 0`** is the most prevalent type **`(47.35%)`**, followed by **`Type 2`** with **`(28.48%)`**. **`Type 1 and 3`** are less frequent, with **`Type 1`** being 16.56% and **`Type 3`** 7.6%.
+  
+- **`Exercise Induced Angina`**: The chart indicates that while majority of individuals **`(67.22%)`** in this dataset do not report experiencing exercise induced angina i.e do not show symptoms during physical exertion, a notable portion **`(32.78%)`** does, which could be an indicator of potential heart disease or compromised cardiovascular health.
 
-- **`Most Popular Subscription Type`**: The Basic subscription is the most popular, with more customers choosing this type compared to Premium and Standard. This might imply that customers prioritize affordability over premium features or additional benefits.
-
-- **`Customer Count and Subscription Duration`**: The data shows an average subscription duration of 365.35 days, indicating a stable retention rate. There are 20 unique customers, suggesting either a small sample size or that this analysis is focused on high-value customers.
   
 ### Recommendations
 ---
