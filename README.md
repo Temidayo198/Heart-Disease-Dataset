@@ -13,9 +13,7 @@
 
 [Results](#results)
 
-[Recommendations](#recommendations)
-
-[Conclusion](#conclusion)
+[Actionable Insights](#actionable-insights)
 
 ### Project Overview
 ---
@@ -67,20 +65,25 @@ Data Visualization: The use of various visual elements (charts, graphs, cards) t
   
 - **`Exercise Induced Angina`**: The chart indicates that while majority of individuals **`(67.22%)`** in this dataset do not report experiencing exercise induced angina i.e do not show symptoms during physical exertion, a notable portion **`(32.78%)`** does, which could be an indicator of potential heart disease or compromised cardiovascular health.
 
+- **`FBS >120mg/dl`**: A smaller group has a fasting blood sugar level above 120 mg/dl, which may indicate a higher risk of diabetes or metabolic issues.
+
+- **`Average Max Heart Rate by Age`**: This line chart tracks the average maximum heart rate (HR) of individuals across different age groups.
+As individuals age, their maximum heart rate tends to decrease. Younger individuals have higher peak heart rates, while older individuals show significantly lower maximum heart rates, likely due to reduced cardiovascular fitness and natural age-related declines in heart function.
+
+- **`Average Resting BP by Age`**: The graph indicates that as people age, there is a gradual increase in average resting BP, particularly after the age of 50. The spike in BP values around 70-80 years is noticeable, which could suggest that older individuals tend to experience higher blood pressure, potentially increasing their risk of heart disease.
+
   
-### Recommendations
+### Actionable Insights
 ---
 
-- Optimize Basic Subscription Offerings: Given that the Basic subscription is the most popular, consider adding incremental value to this tier to retain customers who may eventually switch to competitors offering more benefits at a similar price point. This could include limited premium features to encourage upsells.
+- Early Screening and Preventative Care: Start heart disease and diabetes screenings in middle age (40-45), focusing on cholesterol, blood pressure, and blood sugar levels. For those with elevated readings, develop personalized treatment plans that include lifestyle changes and medications if necessary.
 
-- Targeted Upsell and Retention Strategy for Premium and Standard Subscribers: Since Premium and Standard subscriptions generate substantial revenue, create tailored marketing campaigns to retain these customers and potentially encourage Basic users to upgrade. Offering occasional incentives or exclusive content for Standard and Premium users might increase their perceived value and satisfaction.
+- Gender-Specific Health Strategies: Develop targeted health programs for both men and women, considering that men and women might experience different heart disease risks and symptoms.
 
-- Loyalty Programs for High-Value Customers: Introduce loyalty rewards or personalized offers for high-value subscribers like Liam, Mike, and Sophia to retain these valuable customers. A loyalty program could enhance customer retention, especially for the top revenue-generating users.
+- Health Education and Lifestyle Changes: Promote regular physical activity, healthy eating, and stress management as part of heart disease prevention for individuals in their 40s and 50s. Those with a history of chest pain or risk factors should be encouraged to adopt a heart-healthy lifestyle immediately.
 
-- Focus on New Customer Acquisition: With only 20 unique customers, scaling up customer acquisition efforts could have a significant impact on total revenue. Expanding marketing efforts to target a larger audience and increase the customer base could help mitigate risks associated with relying heavily on a few high-value customers.
+- Increased Monitoring for Older Individuals: Given the age-related increase in blood pressure, cholesterol, and decreased exercise capacity, encourage individuals aged 50 and above to engage in regular medical check-ups and cardiac health monitoring.
 
-### Conclusion
----
+- Encourage cardiac stress testing for individuals reporting exercise-induced chest pain, particularly in those with known risk factors for heart disease.
 
-The analysis reveals that the Basic subscription plan drives the most revenue, indicating a customer preference for affordable options. A few high-value customers contribute significantly to total revenue, emphasizing the need for effective retention strategies for these key accounts. Expanding the customer base, enhancing value propositions for Premium and Standard plans, and introducing loyalty programs could improve revenue stability and growth. Additionally, understanding regional performance trends could unlock opportunities for targeted marketing and further revenue generation.
-
+- Regular screening for diabetes or prediabetes in middle-aged adults should be recommended, as elevated fasting blood sugar is linked to cardiovascular issues.
