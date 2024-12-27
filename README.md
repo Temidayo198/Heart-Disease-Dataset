@@ -13,7 +13,7 @@
 
 [Results](#results)
 
-[Actionable Insights](#actionable-insights)
+[Actionable Recommendations](#actionable-recommendations)
 
 ### Project Overview
 ---
@@ -73,7 +73,7 @@ As individuals age, their maximum heart rate tends to decrease. Younger individu
 - **`Average Resting BP by Age`**: The graph indicates that as people age, there is a gradual increase in average resting BP, particularly after the age of 50. The spike in BP values around 70-80 years is noticeable, which could suggest that older individuals tend to experience higher blood pressure, potentially increasing their risk of heart disease.
 
   
-### Actionable Insights
+### Actionable Recommendations
 ---
 
 - Early Screening and Preventative Care: Start heart disease and diabetes screenings in middle age (40-45), focusing on cholesterol, blood pressure, and blood sugar levels. For those with elevated readings, develop personalized treatment plans that include lifestyle changes and medications if necessary.
